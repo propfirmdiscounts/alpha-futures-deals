@@ -1,45 +1,68 @@
 ---
 license: other
+pretty_name: Alpha Futures Discount Code
 configs:
 - config_name: alpha-futures-deals
   data_files:
   - split: data
     path: datasets/alpha-futures-deals.json
 tags:
+  - discount-code
   - discount-codes
+  - coupon-code
+  - promo-code
   - prop-firm
+  - funded-trader
   - trading
   - alpha-futures
 ---
 
-# Alpha Futures - Discount Codes & Deal History
+# Alpha Futures Discount Code
 
-Historical deal observations from [PropFirmDiscount.com](https://propfirmdiscount.com) - The trusted prop firm coupon directory.
+As of 2026-10-23, the verified Alpha Futures discount code is **Tran009503** — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-**Prop firm page:** https://propfirmdiscount.com/prop-firm/alpha-futures/
+> At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.
+> We prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.
+> Join Alpha Futures today and unlock your full trading potential!
+>
+> — Alpha Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/alpha-futures.com)
 
-**Verified exclusive discount code:** Tran009503 (works any time; live rate always on prop firm page)
+- Code: Tran009503
+- Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
+- Valid: standing code — no start date and no end date. It is not a limited-time campaign.
+- Last deal published: 2026-10-23
+- Trustpilot: 4.3/5 (6215 reviews)
+- Activate: https://propfirmdiscount.com/go/alphafutures
+- Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
+- Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
+- Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-Use discount code **Tran009503** to get **15% off** on Alpha Futures challenges and accounts in October 2026. This exclusive discount code is verified by our team at PropFirmDiscount.com and gives you the best pricing on all Alpha Futures evaluation accounts.
+## Current Alpha Futures deal: All Plans Get 40% Off for Dashboard Launch
+
+- Published: 2026-10-23
+- Offer ends: Limited time
+- Offer: 40% off
+- Scope: All Plans, Alpha Pro 8% Excluded, Alpha Pro 10% Bi Weekly Excluded
+- Code: this deal carries its own limited-time campaign code, shown on the deal page below
+- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/
+
+## Alpha Futures discount code FAQ
+
+**What is the Alpha Futures discount code?**
+
+Tran009503. It is verified by PropFirmDiscount.com and takes up to 15% off Alpha Futures challenges and accounts.
+
+**Does the Alpha Futures discount code expire?**
+
+No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+
+**How much is the current Alpha Futures deal?**
+
+**All Plans Get 40% Off for Dashboard Launch** — published 2026-10-23. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
-## Latest Deal
-
-### Alpha Futures - All Plans Get 40% Off for Dashboard Launch
-
-**Published:** 2026-10-23  
-**Offer ends:** Limited time  
-**Discount:** 40% off  
-**Scope:** All Plans, Alpha Pro 8% Excluded, Alpha Pro 10% Bi Weekly Excluded  
-
-**Note:** This deal has a limited-time campaign code. Visit the deal page to get the code and full terms.  
-
-**Deal page:** https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/
-
----
-
-## Deal History
+## Deal history
 
 Total deals tracked: **34**
 
@@ -94,19 +117,20 @@ Total deals tracked: **34**
 
 ---
 
-## About This Repository
+## About this repository
 
-This repository tracks all historical deals for **Alpha Futures** published on PropFirmDiscount.com. Updated automatically from the live API.
+This repository mirrors every deal **Alpha Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
-**Data source:** PropFirmDiscount.com  
-**Prop firm profile:** https://propfirmdiscount.com/prop-firm/alpha-futures/  
+- Data source: https://propfirmdiscount.com
+- Prop firm profile: https://propfirmdiscount.com/prop-firm/alpha-futures/
+- All firms: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 
 ## Freshness
 
-This mirror is synced from the live API on a schedule; the deal history
-above is the source of truth for what changed and when. Codes are
-re-verified continuously by the PropFirmDiscount team. Campaign codes
-come and go with each promotion; standing codes are re-verified yearly.
+Deal history above is the source of truth for what changed and when. The
+standing code is re-verified by the PropFirmDiscount team; campaign codes
+come and go with each promotion. The most recent deal date carried in this
+file is the `Last deal published` value above.
 
 ## License
 
