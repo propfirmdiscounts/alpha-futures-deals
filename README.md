@@ -2,12 +2,6 @@
 
 As of 2026-10-23, the verified Alpha Futures discount code is Tran009503 — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
-> At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.
-> We prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.
-> Join Alpha Futures today and unlock your full trading potential!
->
-> — Alpha Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/alpha-futures.com)
-
 - Code: Tran009503
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
@@ -52,8 +46,8 @@ Total deals tracked: **34**
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
 | 2026-10-23 | All Plans Get 40% Off for Dashboard Launch | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/) |
-| 2026-10-20 | 50% Off Standard, Direct and Advanced Plans | 50% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) |
-| 2026-10-20 | 40% Off the Zero Plan Entry Fee | 40% off | 2026-10-31 | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) |
+| 2026-10-20 | 50% Off Standard, Direct and Advanced Plans | 50% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) |
+| 2026-10-20 | 40% Off the Zero Plan Entry Fee | 40% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) |
 | 2026-09-15 | 50% Off Evaluation Pricing | 50% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-percent-discount-accounts/) |
 | 2026-07-23 | 40% Off Challenge Fee: Promotion Details | 40% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-percent-discount/) |
 | 2026-07-08 | 35% Off All Evaluation Accounts Upfront Cost | 35% off | Ended | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-35-off-all-accounts/) |
