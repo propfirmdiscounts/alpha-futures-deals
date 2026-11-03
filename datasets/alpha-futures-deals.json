@@ -1,5 +1,25 @@
 [
   {
+    "deal_id": 13110,
+    "title": "50% off three plans in November",
+    "offer_type": "coupon",
+    "discount_value": "50%",
+    "scope": [
+      "Standard, Direct And Advanced Plans"
+    ],
+    "date_published": "2026-11-03",
+    "date_exp": "Limited time",
+    "event": null,
+    "last_verified": "2026-11-03",
+    "post_url": "https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/",
+    "prop_firm": "Alpha Futures",
+    "prop_firm_slug": "alpha-futures",
+    "standing_code": "Tran009503",
+    "standing_discount": "15%",
+    "activation_link": "https://propfirmdiscount.com/go/alphafutures",
+    "firm_page_url": "https://propfirmdiscount.com/prop-firm/alpha-futures/"
+  },
+  {
     "deal_id": 13109,
     "title": "40% off the Zero Plan in November",
     "offer_type": "coupon",

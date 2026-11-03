@@ -19,7 +19,7 @@ tags:
 
 # Alpha Futures - Discount Codes & Deal History
 
-As of 2026-11-02, the verified Alpha Futures discount code is Tran009503 — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-03, the verified Alpha Futures discount code is Tran009503 — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 > At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.
 > We prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.
@@ -30,21 +30,21 @@ As of 2026-11-02, the verified Alpha Futures discount code is Tran009503 — up 
 - Code: Tran009503
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-11-02
+- Last deal published: 2026-11-03
 - Trustpilot: 4.3/5 (6246 reviews)
 - Activate: https://propfirmdiscount.com/go/alphafutures
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Alpha Futures deal: 40% off the Zero Plan in November
+## Current Alpha Futures deal: 50% off three plans in November
 
-- Published: 2026-11-02
+- Published: 2026-11-03
 - Offer ends: Limited time
-- Offer: 40% off
-- Scope: The Zero Plan
+- Offer: 50% off
+- Scope: Standard, Direct And Advanced Plans
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/
+- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/
 
 ## Alpha Futures discount code FAQ
 
@@ -58,18 +58,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Alpha Futures deal?**
 
-**40% off the Zero Plan in November** — published 2026-11-02. Offer ends: Limited time. The offer is 40% off.
+**50% off three plans in November** — published 2026-11-03. Offer ends: Limited time. The offer is 50% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **35**
+Total deals tracked: **36**
 
-### 2026 (20 deals)
+### 2026 (21 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-03 | 50% off three plans in November | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/) |
 | 2026-11-02 | 40% off the Zero Plan in November | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/) |
 | 2026-10-23 | All Plans Get 40% Off for Dashboard Launch | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/) |
 | 2026-10-20 | 50% Off Standard, Direct and Advanced Plans | 50% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) |
