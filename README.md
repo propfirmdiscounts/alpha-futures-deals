@@ -1,6 +1,12 @@
-# Alpha Futures Discount Code
+# Alpha Futures - Discount Codes & Deal History
 
 As of 2026-11-02, the verified Alpha Futures discount code is Tran009503 — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
+
+> At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.
+> We prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.
+> Join Alpha Futures today and unlock your full trading potential!
+>
+> — Alpha Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/alpha-futures.com)
 
 - Code: Tran009503
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
