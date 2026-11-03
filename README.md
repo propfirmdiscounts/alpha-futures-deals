@@ -1,25 +1,25 @@
 # Alpha Futures Discount Code
 
-As of 2026-10-23, the verified Alpha Futures discount code is Tran009503 — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
+As of 2026-11-02, the verified Alpha Futures discount code is Tran009503 — up to 15% OFF, works any time. Its current deals run their own limited-time campaign codes.
 
 - Code: Tran009503
 - Discount: Up to 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: standing code — no start date and no end date. It is not a limited-time campaign.
-- Last deal published: 2026-10-23
+- Last deal published: 2026-11-02
 - Trustpilot: 4.3/5 (6246 reviews)
 - Activate: https://propfirmdiscount.com/go/alphafutures
 - Firm page: https://propfirmdiscount.com/prop-firm/alpha-futures/
 - Full dataset: https://github.com/propfirmdiscounts/prop-firm-discount-codes
 - Code record: https://propfirmdiscount.com/api/prop-firm-codes/
 
-## Current Alpha Futures deal: All Plans Get 40% Off for Dashboard Launch
+## Current Alpha Futures deal: 40% off the Zero Plan in November
 
-- Published: 2026-10-23
+- Published: 2026-11-02
 - Offer ends: Limited time
 - Offer: 40% off
-- Scope: All Plans, Alpha Pro 8% Excluded, Alpha Pro 10% Bi Weekly Excluded
+- Scope: The Zero Plan
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/
+- Deal page: https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/
 
 ## Alpha Futures discount code FAQ
 
@@ -33,18 +33,19 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 **How much is the current Alpha Futures deal?**
 
-**All Plans Get 40% Off for Dashboard Launch** — published 2026-10-23. Offer ends: Limited time. The offer is 40% off.
+**40% off the Zero Plan in November** — published 2026-11-02. Offer ends: Limited time. The offer is 40% off.
 
 ---
 
 ## Deal history
 
-Total deals tracked: **34**
+Total deals tracked: **35**
 
-### 2026 (19 deals)
+### 2026 (20 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-02 | 40% off the Zero Plan in November | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/) |
 | 2026-10-23 | All Plans Get 40% Off for Dashboard Launch | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-all-plans-dashboard/) |
 | 2026-10-20 | 50% Off Standard, Direct and Advanced Plans | 50% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced/) |
 | 2026-10-20 | 40% Off the Zero Plan Entry Fee | 40% off | 2026-10-31 (ended) | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-myalpha/) |
