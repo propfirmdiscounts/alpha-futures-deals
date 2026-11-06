@@ -16,7 +16,7 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: alphafutures
+  HF_NAMESPACE: prop-firm
   FIRM_SLUG: alpha-futures
   DEALSTORE_ID: 178
   FIRM_NAME: Alpha Futures
