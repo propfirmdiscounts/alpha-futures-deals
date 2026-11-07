@@ -16,8 +16,8 @@ concurrency:
   cancel-in-progress: false
 
 env:
-  HF_NAMESPACE: prop-firm
-  HF_REPO_NAME: alpha-futures-discount-codes
+  HF_NAMESPACE: alphafutures
+  HF_REPO_NAME: alpha-futures-deals
   FIRM_SLUG: alpha-futures
   DEALSTORE_ID: 178
   FIRM_NAME: Alpha Futures
