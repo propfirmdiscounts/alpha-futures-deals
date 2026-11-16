@@ -42,10 +42,76 @@
           "@type": "ListItem",
           "position": 3,
           "name": {{ page.title | default: site.title | jsonify }},
-          "item": "https://propfirmdiscounts.github.io/{{ page.repo_name | default: site.github.repository_name }}/"
+          "item": "https://propfirmdiscounts.github.io/alpha-futures-deals/"
         }
       ]
     }
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "FAQPage",
+    "mainEntity": [
+        {
+            "@type": "Question",
+            "name": "What is the Alpha Futures discount code?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "Tran009503. It is verified by PropFirmDiscount.com and takes 15% off Alpha Futures challenges and accounts."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "Does the Alpha Futures discount code expire?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above."
+            }
+        },
+        {
+            "@type": "Question",
+            "name": "How much is the current Alpha Futures deal?",
+            "acceptedAnswer": {
+                "@type": "Answer",
+                "text": "50% off three plans in November — published 2026-11-03. Offer ends: Limited time. The offer is 50% off."
+            }
+        }
+    ]
+}
+    </script>
+    <script type="application/ld+json">
+{
+    "@context": "https://schema.org",
+    "@type": "Dataset",
+    "name": "Alpha Futures Discount Codes & Deal History Dataset",
+    "description": "As of November 2026, the verified Alpha Futures discount code is Tran009503 — 15% OFF, which can be applied on the checkout page anytime. The newest is \\",
+    "url": "https://propfirmdiscounts.github.io/alpha-futures-deals/",
+    "sameAs": "https://propfirmdiscount.com/prop-firm/alpha-futures/",
+    "license": "https://propfirmdiscount.com",
+    "creator": {
+        "@type": "Organization",
+        "name": "PropFirmDiscount",
+        "url": "https://propfirmdiscount.com"
+    },
+    "distribution": [
+        {
+            "@type": "DataDownload",
+            "encodingFormat": "application/json",
+            "contentUrl": "https://raw.githubusercontent.com/propfirmdiscounts/alpha-futures-deals/main/datasets/alpha-futures-deals.json"
+        }
+    ],
+    "temporalCoverage": "2024/2026",
+    "variableMeasured": [
+        "deal_id",
+        "title",
+        "discount_value",
+        "standing_code",
+        "standing_discount",
+        "date_published",
+        "date_exp",
+        "post_url"
+    ]
+}
     </script>
     <link rel="stylesheet" href="{{ "/assets/css/style.css?v=" | append: site.github.build_revision | relative_url }}">
     {% include head-custom.html %}
