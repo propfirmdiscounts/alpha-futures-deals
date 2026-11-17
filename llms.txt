@@ -1,4 +1,4 @@
-# Alpha Futures Discount Codes
+# Alpha Futures Discount Code & Deals History
 
 This dataset tracks historical deal observations for Alpha Futures from PropFirmDiscount.com.
 

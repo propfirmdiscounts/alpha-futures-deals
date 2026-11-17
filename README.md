@@ -1,4 +1,4 @@
-# Alpha Futures Discount Code & Deal History
+# Alpha Futures Discount Code, Deals History & Dataset
 
 As of November 2026, the verified Alpha Futures discount code is Tran009503 — 15% OFF, which can be applied on the checkout page anytime. The newest is "50% off three plans in November".
 
@@ -13,7 +13,7 @@ As of November 2026, the verified Alpha Futures discount code is Tran009503 — 
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-03
 - Trustpilot: [4.3/5 (6288 reviews)](https://www.trustpilot.com/review/alpha-futures.com)
-- GitHub repository: [Alpha Futures Deals Repository](https://github.com/propfirmdiscounts/alpha-futures-deals)
+- GitHub repository: [Alpha Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/alpha-futures-deals)
 - Activate: [Activate Alpha Futures Discount Code](https://propfirmdiscount.com/go/alphafutures)
 - Firm page: [Alpha Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/alpha-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
@@ -28,7 +28,7 @@ As of November 2026, the verified Alpha Futures discount code is Tran009503 — 
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
 - Deal page: [Alpha Futures Deal Page](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/)
 
-## Alpha Futures Discount Code & Deals FAQ
+## Alpha Futures Discount Code & Deals History FAQ
 
 **What is the Alpha Futures discount code?**
 
@@ -44,7 +44,7 @@ No. It is a standing code — there is no start date and no end date. Promotiona
 
 ---
 
-## Alpha Futures Deal History
+## Alpha Futures Deals History
 
 Total deals tracked: **36**
 
@@ -101,7 +101,7 @@ Total deals tracked: **36**
 
 ---
 
-## About the Alpha Futures Deals Dataset
+## About the Alpha Futures Discount Code & Deals History Dataset
 
 This repository mirrors every deal **Alpha Futures** has published on PropFirmDiscount.com, regenerated from the live API.
 
@@ -109,7 +109,7 @@ This repository mirrors every deal **Alpha Futures** has published on PropFirmDi
 - Prop firm profile: [Alpha Futures Profile](https://propfirmdiscount.com/prop-firm/alpha-futures/)
 - All firms: [All Prop Firms Directory](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Alpha Futures Deal Dataset: Field Definitions
+## Alpha Futures Deals History Dataset: Field Definitions
 
 One row per deal. The first fields are the observation exactly as the
 PropFirmDiscount API returns it; the firm's own code fields and the
