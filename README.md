@@ -12,7 +12,7 @@ As of November 2026, the verified Alpha Futures discount code is Tran009503 — 
 - Discount: 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
 - Valid: Standing code — no published expiry date
 - Last deal published: 2026-11-03
-- Trustpilot: [4.3/5 (6274 reviews)](https://www.trustpilot.com/review/alpha-futures.com)
+- Trustpilot: [4.3/5 (6288 reviews)](https://www.trustpilot.com/review/alpha-futures.com)
 - GitHub repository: [Alpha Futures Deals Repository](https://github.com/propfirmdiscounts/alpha-futures-deals)
 - Activate: [Activate Alpha Futures Discount Code](https://propfirmdiscount.com/go/alphafutures)
 - Firm page: [Alpha Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/alpha-futures/)
