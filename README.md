@@ -1,23 +1,13 @@
 # Alpha Futures Discount Code, Deals History & Dataset
 
-As of November 2026, the verified Alpha Futures discount code is Tran009503 — 15% OFF, which can be applied on the checkout page anytime. The newest is "50% off three plans in November".
+Alpha Futures has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "50% off three plans in November".
 
-> At Alpha Futures, we provide traders with cutting-edge tools, top-tier funding opportunities, and unwavering support to help them thrive in the financial markets. Our mission is to empower traders of all levels by offering fair and transparent trading conditions, competitive capital allocations, and a structured path to success.
-> We prioritize integrity, risk management, and trader development, ensuring that every trader has the resources needed to grow and succeed. With our commitment to excellence, a strong trading community, and a team of professionals ready to support you, Alpha Futures is the ultimate destination for serious traders looking to advance their skills.
-> Join Alpha Futures today and unlock your full trading potential!
->
-> — Alpha Futures, in its own description on [its Trustpilot profile](https://www.trustpilot.com/review/alpha-futures.com)
-
-- Code: Tran009503
-- Discount: 15% off (headline discount of the code; individual challenge plans on the firm page may list different percentages)
-- Valid: Standing code — no published expiry date
+- Code: none — Alpha Futures runs no standing discount code
+- Discounts: each offer is a campaign with its own code, stated on its deal page
 - Last deal published: 2026-11-03
-- Trustpilot: [4.3/5 (6288 reviews)](https://www.trustpilot.com/review/alpha-futures.com)
 - GitHub repository: [Alpha Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/alpha-futures-deals)
-- Activate: [Activate Alpha Futures Discount Code](https://propfirmdiscount.com/go/alphafutures)
 - Firm page: [Alpha Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/alpha-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
-- Code record: [Alpha Futures API Record](https://propfirmdiscount.com/api/prop-firm-codes/)
 
 ## Latest Alpha Futures deal: 50% off three plans in November
 
@@ -30,13 +20,9 @@ As of November 2026, the verified Alpha Futures discount code is Tran009503 — 
 
 ## Alpha Futures Discount Code & Deals History FAQ
 
-**What is the Alpha Futures discount code?**
+**Does Alpha Futures have a discount code?**
 
-Tran009503. It is verified by PropFirmDiscount.com and takes 15% off Alpha Futures challenges and accounts.
-
-**Does the Alpha Futures discount code expire?**
-
-No. It is a standing code — there is no start date and no end date. Promotional deals are separate and are dated individually; the current one is listed above.
+Alpha Futures has no standing discount code. Its offers are campaigns, and each campaign carries its own code on its deal page. The current one is listed above.
 
 **How much is the current Alpha Futures deal?**
 
@@ -136,10 +122,10 @@ links are appended after, in the order below.
 | `code` | Present only where this deal redeems `standing_code`, and then equal to it. Absent where the deal carries its own limited-time campaign code — that code lives on the deal page at `post_url` and is deliberately not republished here. |
 | `code_state` | `standing` where `code` is present. |
 
-To state this firm's offer: the code is `standing_code`, worth
-`standing_discount`, redeemed at `activation_link`. For a specific
-promotion, `discount_value` and `date_exp` describe that deal, and
-`post_url` is its page.
+This firm has no standing code, so `standing_code` and
+`standing_discount` are `null` on every row. State an offer from
+`discount_value` and `date_exp` for the deal itself, and take the code
+from that deal's page at `post_url`.
 
 ## Data Freshness & Verification
 
