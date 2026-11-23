@@ -1,23 +1,23 @@
 # Alpha Futures Discount Code, Deals History & Dataset
 
-Alpha Futures has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "BOGO + 40% Off 25K Zero".
+Alpha Futures has no standing discount code. Its offers are campaigns, each with its own code, which the deal page shows — the newest is "BOGO + 50% Off 25K Direct".
 
 - Code: none — Alpha Futures runs no standing discount code
 - Discounts: each offer is a campaign with its own code, stated on its deal page
-- Last deal published: 2026-11-21
+- Last deal published: 2026-11-22
 - GitHub repository: [Alpha Futures Discount Code & Deals History Repository](https://github.com/propfirmdiscounts/alpha-futures-deals)
 - Firm page: [Alpha Futures Page on PropFirmDiscount](https://propfirmdiscount.com/prop-firm/alpha-futures/)
 - Full dataset: [All Prop Firm Discount Codes Dataset](https://github.com/propfirmdiscounts/prop-firm-discount-codes)
 
-## Latest Alpha Futures deal: BOGO + 40% Off 25K Zero
+## Latest Alpha Futures deal: BOGO + 50% Off 25K Direct
 
-- Published: 2026-11-21
+- Published: 2026-11-22
 - Offer ends: Limited time
-- Offer: 40% off
+- Offer: 50% off
 - Event: Black Friday
-- Scope: 25K Zero Accounts
+- Scope: 25K Direct Accounts
 - Code: this deal carries its own limited-time campaign code, shown on the deal page below
-- Deal page: [Alpha Futures Deal Page](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/)
+- Deal page: [Alpha Futures Deal Page](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-50-off-25k-direct/)
 
 ## Alpha Futures Discount Code & Deals History FAQ
 
@@ -27,18 +27,19 @@ Alpha Futures has no standing discount code. Its offers are campaigns, and each 
 
 **How much is the current Alpha Futures deal?**
 
-**BOGO + 40% Off 25K Zero** — published 2026-11-21. Offer ends: Limited time. The offer is 40% off.
+**BOGO + 50% Off 25K Direct** — published 2026-11-22. Offer ends: Limited time. The offer is 50% off.
 
 ---
 
 ## Alpha Futures Deals History
 
-Total deals tracked: **37**
+Total deals tracked: **38**
 
-### 2026 (22 deals)
+### 2026 (23 deals)
 
 | Deal Date | Title | Discount | Expires | Event | Deal Link |
 |---|---|---|---|---|---|
+| 2026-11-22 | Alpha Futures: BOGO + 50% Off 25K Direct | 50% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-50-off-25k-direct/) |
 | 2026-11-21 | Alpha Futures: BOGO + 40% Off 25K Zero | 40% off | Limited time | Black Friday | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-black-friday-bogo-40-off-25k-zero/) |
 | 2026-11-03 | Alpha Futures: 50% off three plans in November | 50% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-50-off-standard-direct-advanced-2/) |
 | 2026-11-02 | Alpha Futures: 40% off the Zero Plan in November | 40% off | Limited time | — | [View Deal](https://propfirmdiscount.com/deals/alpha-futures/alpha-futures-40-off-zero-plan-november/) |
